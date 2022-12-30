@@ -67,6 +67,7 @@ pkg install wget
 pkg install imagemagick
 git clone https://github.com/Sparkymon777/SPARKY-BOT-MD
 cd SPARKY-BOT-MD
+-rm session.json
 npm start
 ```
 ## `For VPS`
@@ -79,6 +80,7 @@ apt apt install imagrmagick
 apt install bash
 git clone https://github.com/Sparkymon777/SPARKY-BOT-MD
 cd SPARKY-BOT-MD
+-rm session.json
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
